@@ -4,11 +4,11 @@
 * ```modelTraining.py```: cross validation, submission generating, stacking preparing
 * ```classifiers.py```: my encapsulation of xgboost
 * stack
-  * StackNet.jar: stacking tools shared by KazAnova, repo is [here](https://github.com/kaz-Anova/StackNet)
-  * parse.py: tools for evaluate the cv scores during stacking.
-  * utils.py: generating submission after StackNet
-  * start.sh: commands for executing StackNet
-  * params.txt: my params for stacking
+  * ```StackNet.jar```: stacking tools shared by KazAnova, repo is [here](https://github.com/kaz-Anova/StackNet)
+  * ```parse.py```: tools for evaluate the cv scores during stacking.
+  * ```utils.py```: generating submission after StackNet
+  * ```start.sh```: commands for executing StackNet
+  * ```params.txt```: my params for stacking
 
 ### links:
   * [Kaggle:Rental Listing Inquireies](https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries)

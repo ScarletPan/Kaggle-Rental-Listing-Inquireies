@@ -1,0 +1,1 @@
+java -Xmx3048m -jar StackNet.jar train train_file=train_stacknet.csv test_file=test_stacknet.csv params=params.txt pred_file=sigma_stack_pred.csv test_target=true verbose=true Threads=4 stackdata=false folds=5 seed=1 metric=logloss

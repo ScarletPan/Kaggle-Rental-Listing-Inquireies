@@ -14,4 +14,5 @@
   * [Kaggle:Rental Listing Inquireies](https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries)
   * [Summary of getting a silver medal in kaggle](http://scarletpan.github.io/summary-of-get-a-silver-medal-in-kaggle/)
   * [Kaggle 首战拿银总结 | 入门指导 (长文、干货） -- 知乎专栏](https://zhuanlan.zhihu.com/p/26645088)
+  * [AI Challenge 分享会PPT](https://github.com/ScarletPan/Kaggle-Rental-Listing-Inquireies/blob/master/ppt/AIC-Sharing-11-19.pptx)
   
